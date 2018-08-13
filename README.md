@@ -10,3 +10,10 @@
 ![](https://github.com/davidkorea/ASP_wordcloud/blob/master/README/1.jpg)
 
 ![](https://github.com/davidkorea/ASP_wordcloud/blob/master/README/2.jpg)
+
+
+# Issue 2 
+
+After sorted, can not cut by jieba.
+
+Only when you ```to_csv``` to make a new csv file and re-read with ```pd.Dataframe``` can you continue to cut words by jieba.
