@@ -14,6 +14,6 @@
 
 # Issue 2 
 
-After sorted, can not cut by jieba.
+After sorted by  ```data_df[data_df['language']=='zh-CN']```, can not cut by jieba.
 
 Only when you ```to_csv``` to make a new csv file and re-read with ```pd.Dataframe``` can you continue to cut words by jieba.
