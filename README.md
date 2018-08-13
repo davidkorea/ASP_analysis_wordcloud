@@ -29,3 +29,7 @@ pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.Int64HashTable
 pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.Int64HashTable.get_item()
 KeyError: 0
 ```
+# Issue 3 - Kaggle use costom font
+
+upload *.tff file as dataset.
+ 
