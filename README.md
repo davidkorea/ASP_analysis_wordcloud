@@ -33,3 +33,4 @@ KeyError: 0
 
 upload *.tff file as dataset.
  
+![](https://github.com/davidkorea/ASP_wordcloud/blob/master/README/3.jpg)
