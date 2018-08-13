@@ -3,7 +3,7 @@
 # Issue 1 - Kaggle install jieba (custom packages)
 
 ```python
-!pip install jieba # is not supported.
+!pip install jieba # is not supported. Install as followings
 ``` 
 
 
