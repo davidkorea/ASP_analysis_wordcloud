@@ -19,7 +19,7 @@ After sorted by  ```data_df[data_df['language']=='zh-CN']```, can not cut by jie
 Only when you ```to_csv``` to save as a new csv file and re-read with ```pd.Dataframe``` can you continue to cut words by jieba.
 
 ```python
----------------------------------------------------------------------------
+
 KeyError                                  Traceback (most recent call last)
 <ipython-input-11-ec7f6ed39bb2> in <module>()
 
