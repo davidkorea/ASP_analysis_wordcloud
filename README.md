@@ -12,9 +12,9 @@
 ![](https://github.com/davidkorea/ASP_wordcloud/blob/master/README/4.jpg)
 
 
-(X)    # Issue 2 
+(X) # Issue 2 
 
-    After sorted by  ```data_df[data_df['language']=='zh-CN']```, can not cut by jieba. ERROR as below.
+> After sorted by  ```data_df[data_df['language']=='zh-CN']```, can not cut by jieba. ERROR as below.
 
     Only when you ```to_csv``` to save as a new csv file and re-read with ```pd.Dataframe``` can you continue to cut words by jieba.
 
